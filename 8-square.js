@@ -10,7 +10,7 @@ else
             let row = "";
             for (let j = 0; j < sizeOfSquare; j++)
             {
-                row += "x";
+                row += "X";
             }
             console.log(row);
         }  
